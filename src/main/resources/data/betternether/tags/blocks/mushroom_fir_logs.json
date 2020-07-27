@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "betternether:mushroom_fir_log",
+    "betternether:mushroom_fir_wood",
+    "betternether:stripped_log_mushroom_fir",
+    "betternether:stripped_wood_mushroom_fir"
+  ]
+}
